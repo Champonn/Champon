@@ -18,6 +18,10 @@ body {
 .mbr-text {
   font-style: normal;
   line-height: 1.6;
+}
+.my-text {
+  font-style: normal;
+  line-height: 1.6;
   width:300px;
 }
 .display-1 {
